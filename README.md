@@ -1,7 +1,7 @@
 # sobre mim
 
-- ola meu nome lucas mozart
-- eu estou interessado em aprender a programar novas linguagens.
-- eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
-- tenho 15 anos...
+- Ola meu nome lucas mozart
+- Eu estou interessado em aprender a programar novas linguagens.
+- Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- Tenho 15 anos...
 - Campo Largo PR
